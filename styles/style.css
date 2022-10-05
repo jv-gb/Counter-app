@@ -1,0 +1,37 @@
+.container {
+ background-color: #C5D1EB;
+ text-align: center;
+ width: 200px;
+ display: block;
+ border: 5px solid #92AFD7;
+ border-radius: 10px;
+ margin: auto;
+ padding: 30px;
+}
+
+h1 , .count {
+ font-family: Arial, Helvetica, sans-serif;
+ color: white;
+ padding: 0;
+}
+
+.subtract,
+.reset,
+.add {
+ font-family: Arial, Helvetica, sans-serif;
+ color: white;
+ padding: 10px;
+ border-radius: 5px;
+}
+
+.subtract {
+ background-color: #5A7684;
+}
+
+.reset {
+ background-color: #395B50;
+}
+
+.add {
+ background-color: #1F2F16;
+}
